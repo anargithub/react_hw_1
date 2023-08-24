@@ -1,0 +1,21 @@
+.title{
+    width: 600px;
+    color: rgb(106, 104, 104);
+    margin: 20px 0 
+}
+.card{
+    width: 660px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px 0 0;
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+}
+
+
+#show{
+    display: block;
+}
+

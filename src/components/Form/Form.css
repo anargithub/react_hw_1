@@ -1,0 +1,7 @@
+.link{
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
